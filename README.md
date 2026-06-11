@@ -28,6 +28,16 @@ A web app that dynamically synthesizes professional and casual email drafts usin
 - A modern web browser (Chrome, Edge, Firefox, Safari)
 - Visual Studio Code (or any text editor)
 
+
+
+## Project Structure
+
+mail_generator/
+├── index.html
+├── styles.css
+└── app.js
+
+
 ### Installation
 
 1. Clone the repository:
